@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: Connectome Commander"
+git branch -M main
+git remote add origin https://github.com/YOURNAME/connectome-commander.git
+git push -u origin main
